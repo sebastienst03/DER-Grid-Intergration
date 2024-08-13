@@ -15,5 +15,6 @@ this project focuses on designing an optimized transmission system to integrate 
 1. performed load flow analysis without the CCW farm.
 2. performed multiple contingency analysis with CCW identifying line and transformers violations.
 3. Add new transmission lines and transformers to mitigate violations
+4. Calculated total cost considering both construction expenses and profit.
 
    
